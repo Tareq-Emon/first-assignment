@@ -1,3 +1,35 @@
+body{
+    font-family: 'Capriola', sans-serif;
+}
 .span-tag{
     color: orangered;
+}
+h1{
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 174, 57), rgb(202, 40, 40));
+    padding: 10px 45px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-page-a{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-page-b{
+    width: 50%;
+    
+}
+.half-width{
+    display: flex;
+    
+}
+.half-width-second{
+    display: flex;
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
 }
