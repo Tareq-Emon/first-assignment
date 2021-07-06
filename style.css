@@ -74,3 +74,8 @@ a{
     width: 300px;
     height: 400px;
 }
+.footer{
+    text-align: center;
+    background-color: lightslategray;
+    padding: 30px 50px;
+}
